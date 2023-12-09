@@ -9,3 +9,34 @@
     background-color: rgba(153, 77, 28,0.8);
     color: #F3EEEA;
 }
+
+.main-box {
+    width: 40%;
+    overflow: auto;
+    margin: 30px auto;
+    border: 15px solid rgba(153, 77, 28,0.8);
+    border-radius: 10px;
+    box-shadow: 0px -25px 20px -20px rgba(0, 0, 0, 0.45), -25px 0 20px -20px rgba(0, 0, 0, 0.45);
+}
+
+.box {
+    width: 12.5%;
+    height: 70px;
+    float: left;
+    position: relative;
+}
+
+.brown {
+    background-color: #913A22;
+}
+
+.ash-white {
+    background-color: #E2D18D;
+}
+
+img {
+    width: 35px;
+    position: absolute;
+    left: 17px;
+    top: 6px;
+}
